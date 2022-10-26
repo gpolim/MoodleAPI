@@ -1,1 +1,1 @@
-# MoodleAPI-AzureFunctions
+# MoodleAPI
