@@ -5,7 +5,7 @@ import logging
 import azure.functions as func
 from sqlalchemy import create_engine
 
-url = "MOODLE URL"
+url = "MOODLE URL/webservice/rest/server.php"
 
 def _engine_():
     user = ''
